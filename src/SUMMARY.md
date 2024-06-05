@@ -35,6 +35,7 @@ Summary
   - [while](./ch00/cairo_cheatsheet/while.md)
   - [if let](./ch00/cairo_cheatsheet/if_let.md)
   - [while let](./ch00/cairo_cheatsheet/while_let.md)
+  - [Enums](./ch00/cairo_cheatsheet/enums.md)
   - [Match](./ch00/cairo_cheatsheet/match.md)
   - [Tuples](./ch00/cairo_cheatsheet/tuples.md)
   - [Struct](./ch00/cairo_cheatsheet/struct.md)
@@ -55,6 +56,8 @@ Summary
 - [Defi Vault](./ch01/simple_vault.md)
 - [ERC20 Token](./ch01/erc20.md)
 - [Constant Product AMM](./ch01/constant-product-amm.md)
+- [TimeLock](./ch01/timelock.md)
+- [Staking](./ch01/staking.md)
 
 <!-- ch02 -->
 
@@ -71,3 +74,4 @@ Summary
 - [List](./ch02/list.md)
 - [Plugins](./ch02/plugins.md)
 - [Signature Verification](./ch02/signature_verification.md)
+- [Library Calls](./ch02/library_calls.md)
